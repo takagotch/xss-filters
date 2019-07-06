@@ -22,7 +22,7 @@ app.get('/', function(req, res){
 app.list(3000);
 ```
 
-```
+```html
 <!doctype html>
 <script src="dist/xss-filters.min.js"></script>
 <script>
